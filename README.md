@@ -34,6 +34,7 @@ I'm documenting my journey from beginner to Software Engineer.
   
 - 🏗️ Software Architect
 
+
 Thanks for stopping by!
 
 <!--
