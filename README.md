@@ -1,41 +1,73 @@
-# Hi, I'm Viswanathan 👋
+# 👋 Hi, I'm Viswanathan
 
-I'm documenting my journey from beginner to Software Engineer.
+Building in public as I combine UX and Full Stack Development - one project, one commit, and one lesson at a time.
 
-## Currently learning
+━━━━━━━━━━━━━━━━━━━━━━━━
 
-- HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
+## ✅ Last Milestone
+Set up my GitHub profile.
 
-## Learning Path
+━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🎨 UX Designer
-  
-    ↓
-  
-- 💻 Full Stack Developer
-  
-    ↓
-  
-- ⚙️ Backend Engineer
-  
-    ↓
-  
-- ☁️ Cloud Engineer
-  
-    ↓
-  
-- 🌐 Distributed Systems
-  
-    ↓
-  
-- 🏗️ Software Architect
+## 🎯 Current Mission
 
+Building strong Full Stack fundamentals through The Odin Project.
 
-Thanks for stopping by!
+### Currently studying
+
+📚 Learning Resource
+
+The Odin Project — Foundations
+
+Currently covering
+
+↓
+
+☑ HTML
+
+☑ CSS
+
+☑ JavaScript
+
+☑ Git
+
+☑ GitHub
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+## Next Milestone
+
+✅ Complete Odin Foundations
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🚀 Career Roadmap
+
+🎨 UX Designer 
+
+↓
+
+💻 Full Stack Developer ← Current Goal 🎯
+
+↓
+
+⚙ Backend Engineer
+
+↓
+
+☁ Cloud Engineer
+
+↓
+
+🌐 Distributed Systems
+
+↓
+
+🏛 Software Architect
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+--> Follow along as I build, learn and grow—one commit at a time.
 
 <!--
 **mrwatertank/mrwatertank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
