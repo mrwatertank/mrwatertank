@@ -1,4 +1,30 @@
-## Hi there 👋
+# Hi, I'm Viswanathan 👋
+
+I'm documenting my journey from beginner to Software Engineer.
+
+## Currently learning
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+## Learning Path
+
+UX Designer
+↓
+Full Stack Developer
+↓
+Backend Engineer
+↓
+Cloud
+↓
+Distributed Systems
+↓
+Software Architect
+
+Thanks for stopping by!
 
 <!--
 **mrwatertank/mrwatertank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
