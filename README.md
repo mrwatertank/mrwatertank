@@ -12,17 +12,17 @@ I'm documenting my journey from beginner to Software Engineer.
 
 ## Learning Path
 
-UX Designer
-↓
-Full Stack Developer
-↓
-Backend Engineer
-↓
-Cloud
-↓
-Distributed Systems
-↓
-Software Architect
+- 🎨 UX Designer
+    ↓
+- 💻 Full Stack Developer
+    ↓
+- ⚙️ Backend Engineer
+    ↓
+- ☁️ Cloud Engineer
+    ↓
+- 🌐 Distributed Systems
+    ↓
+- 🏗️ Software Architect
 
 Thanks for stopping by!
 
